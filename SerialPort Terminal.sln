@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPort Terminal", "SerialPort Terminal.csproj", "{BBE71346-25BB-4D3D-B91E-EE027947F8D9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SerialPortAnalyzer", "..\SerialPortAnalyzer\SerialPortAnalyzer.vdproj", "{A0712311-43D7-4952-968A-3971937DE10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE71346-25BB-4D3D-B91E-EE027947F8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE71346-25BB-4D3D-B91E-EE027947F8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE71346-25BB-4D3D-B91E-EE027947F8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE71346-25BB-4D3D-B91E-EE027947F8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0712311-43D7-4952-968A-3971937DE10F}.Debug|Any CPU.ActiveCfg = Debug
+		{A0712311-43D7-4952-968A-3971937DE10F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
